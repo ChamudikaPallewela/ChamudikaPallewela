@@ -17,10 +17,7 @@
 
 - 💬 **Ask me about**: Web Development, Android, Flutter, Django, ML/AI, Quantum Mechanics   
 - ⚡ **Fun fact**:  
-  🌟 I'm a huge F1 fan <strong>(McLaren all the way! 🧡)</strong>, so when race weekends roll around, you’ll find me glued to the screen! 🏎️✨  
-  🎏 If I’m not watching <strong>Detective Conan</strong> or living vicariously through <strong>My Next Life as a Villainess</strong>, I’m probably off exploring <strong>Teyvat</strong> in Genshin Impact! 🎮💫  
-  📚 In my downtime, I dive headfirst into romance novels, getting lost in dreamy plots. You might catch me cozied up with a book, sipping coffee in a cute café ☕ or hunting for new reads at the bookstore 📖💕.  
-  🎵 Brooklyn 99 marathons, music binges, and little adventures make my free time extra sweet! 😊  
+  🌟 I'm a huge F1 fan <strong>(McLaren all the way! 🧡)</strong>, so when race weekends roll around, you’ll find me glued to the screen! 🏎️✨  🎏 If I’m not watching <strong>Detective Conan</strong> or living vicariously through <strong>My Next Life as a Villainess</strong>, I’m probably off exploring <strong>Teyvat</strong> in Genshin Impact! 🎮💫 📚 In my downtime, I dive headfirst into romance novels, getting lost in dreamy plots. You might catch me cozied up with a book or lost in a code, sipping coffee in a cute café ☕ or hunting for new reads at the bookstore 📖💕.  When I’m not at the café or bookstore, you’ll probably find me trying out new games or coding away! 🎮💻 . Brooklyn 99 marathons, 🎵 music binges, and little adventures make my free time extra sweet! 😊  
 
 
 ---
@@ -59,8 +56,7 @@
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76116jlj70au121zehvkby3t57j6flj7aahytnq3hpvp&ep=v1_gifs_search&rid=giphy.gif" width="300">
 </p>
 <p align="center">  
-  <a href="https://www.linkedin.com/in/chamudikapallewela/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>  
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" /></a>  
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/chamudika-pallewela-922258247/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>  
+  <a href="mailto:lckpallewela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>  
 </p>  
 
