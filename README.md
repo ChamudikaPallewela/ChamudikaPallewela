@@ -51,7 +51,6 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamudikapallewela&theme=sakura" alt="streak" width="400" />
     </td>
     <td style="border: none;">
