@@ -51,8 +51,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=chamudikapallewela&show_icons=true&theme=sakura" alt="stats" width="400" />
-      <br />
+      
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamudikapallewela&theme=sakura" alt="streak" width="400" />
     </td>
     <td style="border: none;">
