@@ -15,12 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=chamudikapallewela&label=Profile%20views&color=87CEFA&style=flat" alt="Profile Views" />
 </p>
 
-- 💬 **Ask me about**: Web Development, Android, Flutter, Django, ML/AI, Quantum Mechanics   
-- ⚡ **Fun fact**:  
+- 💬 **Ask me about**: Web Development, Android, Flutter, Django, ML/AI, Quantum Mechanics
+  
+- ⚡ **Fun fact**:
+  
   🌟 I'm a huge F1 fan <strong>(McLaren all the way! 🧡)</strong>, so when race weekends roll around, you’ll find me glued to the screen! 🏎️✨  🎏 If I’m not watching <strong>Detective Conan</strong> or living vicariously through <strong>My Next Life as a Villainess</strong>, I’m probably off exploring <strong>Teyvat</strong> in Genshin Impact! 🎮💫 📚 In my downtime, I dive headfirst into romance novels, getting lost in dreamy plots. You might catch me cozied up with a book or lost in a code, sipping coffee in a cute café ☕ or hunting for new reads at the bookstore 📖💕.  When I’m not at the café or bookstore, you’ll probably find me trying out new games or coding away! 🎮💻 . Brooklyn 99 marathons, 🎵 music binges, and little adventures make my free time extra sweet! 😊  
 
-
----
 
 
 
